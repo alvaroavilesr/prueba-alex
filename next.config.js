@@ -2,6 +2,7 @@
 const nextConfig = {
     output: 'export',
     distDir: 'out',
+    basePath: '/prueba-alex',
     images: {
         unoptimized: true,
     },
@@ -10,4 +11,5 @@ const nextConfig = {
 module.exports = {
     output: 'export',
     distDir: 'out',
+    basePath: '/prueba-alex'
 };
